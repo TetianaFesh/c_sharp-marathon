@@ -1,0 +1,11 @@
+D:\SoftServe\Sprint1\bin\Debug\netcoreapp3.1\Sprint1.exe
+D:\SoftServe\Sprint1\bin\Debug\netcoreapp3.1\Sprint1.deps.json
+D:\SoftServe\Sprint1\bin\Debug\netcoreapp3.1\Sprint1.runtimeconfig.json
+D:\SoftServe\Sprint1\bin\Debug\netcoreapp3.1\Sprint1.runtimeconfig.dev.json
+D:\SoftServe\Sprint1\bin\Debug\netcoreapp3.1\Sprint1.dll
+D:\SoftServe\Sprint1\bin\Debug\netcoreapp3.1\Sprint1.pdb
+D:\SoftServe\Sprint1\obj\Debug\netcoreapp3.1\Sprint1.csprojAssemblyReference.cache
+D:\SoftServe\Sprint1\obj\Debug\netcoreapp3.1\Sprint1.AssemblyInfoInputs.cache
+D:\SoftServe\Sprint1\obj\Debug\netcoreapp3.1\Sprint1.AssemblyInfo.cs
+D:\SoftServe\Sprint1\obj\Debug\netcoreapp3.1\Sprint1.dll
+D:\SoftServe\Sprint1\obj\Debug\netcoreapp3.1\Sprint1.pdb

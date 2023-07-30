@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+zalupa
 namespace Sprint4.Task3
 {
     public interface IDocument

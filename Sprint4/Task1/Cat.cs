@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+erwe
 namespace Sprint4.Task1
 {
     public class Cat : IAnimal, IRunnable
